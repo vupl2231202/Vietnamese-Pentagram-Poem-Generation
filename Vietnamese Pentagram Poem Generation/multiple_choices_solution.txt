@@ -1,0 +1,9 @@
+Text Generation Project - Multiple choices answers
+1. C
+2. D
+3. B
+4. D
+5. C
+6. A
+7. A
+8. B
